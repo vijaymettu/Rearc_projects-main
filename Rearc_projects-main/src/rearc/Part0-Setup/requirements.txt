@@ -1,0 +1,5 @@
+pandas
+pyspark
+beautifulsoup4
+requests
+boto3==1.38.40
